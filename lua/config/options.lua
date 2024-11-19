@@ -13,3 +13,6 @@ vim.opt.scrolloff = 0
 
 -- Place a vertical marker after column 80.
 vim.opt.colorcolumn = "81"
+
+-- Show the current file in the window title.
+vim.opt.title = true
